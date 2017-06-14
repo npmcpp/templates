@@ -1,6 +1,8 @@
+#pragma once
+
 namespace templates {
 
 template <typename T>
-T sq(T a) { return a * a; }
+T cube(T a) { return a * a * a; }
 
 } // templates
