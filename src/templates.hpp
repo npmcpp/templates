@@ -1,3 +1,5 @@
+#pragma once
+
 namespace templates {
 
 template <typename T>
